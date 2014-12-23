@@ -1,6 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://cryptocard.cc/images/u365-17.png</loc>
+    <lastmod>2014-12-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://cryptocard.cc/images/u365-17-r.png</loc>
+    <lastmod>2014-12-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://cryptocard.cc/images/u365-17-m.png</loc>
+    <lastmod>2014-12-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://cryptocard.cc/images/u365-17-fs.png</loc>
+    <lastmod>2014-12-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://cryptocard.cc/images/u365-17_2x.png</loc>
+    <lastmod>2014-12-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://cryptocard.cc/images/u365-17-r_2x.png</loc>
+    <lastmod>2014-12-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://cryptocard.cc/images/u365-17-m_2x.png</loc>
+    <lastmod>2014-12-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://cryptocard.cc/images/u365-17-fs_2x.png</loc>
+    <lastmod>2014-12-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://cryptocard.cc/index.html</loc>
     <lastmod>2014-12-13</lastmod>
     <changefreq>weekly</changefreq>
@@ -26,7 +74,7 @@
   </url>
   <url>
     <loc>http://cryptocard.cc/contact.html</loc>
-    <lastmod>2014-12-13</lastmod>
+    <lastmod>2014-12-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
