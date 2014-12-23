@@ -1,4 +1,4 @@
-<manifest alg="2" build="10" opt="true" iceEnabled="false" exportTarget="other" resolutions="1x,2x" timestamp="1419366349904">
+<manifest alg="2" build="10" opt="true" iceEnabled="false" exportTarget="other" resolutions="1x,2x" timestamp="1419366456337">
   <folder name="images">
     <file name="u365-17.png" crc="3853959478" ref="contact"/>
     <file name="u365-17-r.png" crc="168798294" ref="contact"/>
@@ -12,8 +12,8 @@
   <folder name="css">
     <file name="site_global.css" crc="4157428007"/>
     <file name="master_a-master.css" crc="245533837" ref="contact:release-date:pricing:how-does-it-work:index"/>
-    <file name="contact.css" crc="3776545886" ref="contact"/>
-    <file name="iefonts_contact.css" crc="281759295" ref="contact"/>
+    <file name="contact.css" crc="3938836525" ref="contact"/>
+    <file name="iefonts_contact.css" crc="231966418" ref="contact"/>
     <file name="release-date.css" crc="3977000304" ref="release-date"/>
     <file name="iefonts_release-date.css" crc="3912581195" ref="release-date"/>
     <file name="pricing.css" crc="3977000304" ref="pricing"/>
@@ -37,5 +37,5 @@
   <file name="how-does-it-work.html" crc="4171324041" mt="1418499697022" redirect="true"/>
   <file name="pricing.html" crc="3775564214" mt="1418499697023" redirect="true"/>
   <file name="release-date.html" crc="320714026" mt="1418499697025" redirect="true"/>
-  <file name="contact.html" crc="4284318321" mt="1419365845251" redirect="true"/>
+  <file name="contact.html" crc="3926021001" mt="1419366433337" redirect="true"/>
 </manifest>

@@ -1,7 +1,7 @@
 .version.contact /* version checker */
 {
-	color: #0000E1;
-	background-color: #19845E;
+	color: #0000EA;
+	background-color: #C5E02D;
 }
 
 #page
@@ -377,7 +377,8 @@
 	line-height: 14px;
 	color: #6B6B6B;
 	text-align: left;
-	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	font-family: josefin-sans, sans-serif;
+	font-weight: 400;
 	position: relative;
 	margin-right: -10000px;
 	left: 1px;
@@ -395,7 +396,8 @@
 	padding: 6px;
 	line-height: 14px;
 	color: #C4C4C4;
-	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	font-family: josefin-sans, sans-serif;
+	font-weight: 400;
 	font-style: italic;
 	position: relative;
 	margin-right: -10000px;
@@ -445,23 +447,6 @@
 {
 	color: #4F4F4F;
 	font-style: normal;
-}
-
-#u353
-{
-	font-family: josefin-sans, sans-serif;
-	font-weight: 400;
-	font-style: italic;
-}
-
-#widgetu350_input,#widgetu350_prompt
-{
-	width: 328px;
-	min-height: 14px;
-	color: #C4C4C4;
-	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
-	font-style: italic;
-	padding: 6px;
 }
 
 #widgetu354
@@ -590,7 +575,7 @@
 	font-style: normal;
 }
 
-#widgetu354_input,#widgetu354_prompt
+#widgetu350_input,#widgetu350_prompt,#widgetu354_input,#widgetu354_prompt
 {
 	width: 328px;
 	min-height: 14px;
@@ -625,7 +610,6 @@
 	color: #999999;
 	line-height: 1;
 	font-size: 14px;
-	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	font-style: italic;
 }
 
@@ -694,7 +678,7 @@
 	font-style: italic;
 }
 
-#u352,#u358,#u364,#u359
+#u358,#u364,#u359
 {
 	font-family: josefin-sans, sans-serif;
 	font-weight: 400;
