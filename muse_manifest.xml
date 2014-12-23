@@ -1,4 +1,4 @@
-<manifest alg="2" build="10" opt="true" iceEnabled="false" exportTarget="other" resolutions="1x,2x" timestamp="1419365868913">
+<manifest alg="2" build="10" opt="true" iceEnabled="false" exportTarget="other" resolutions="1x,2x" timestamp="1419366349904">
   <folder name="images">
     <file name="u365-17.png" crc="3853959478" ref="contact"/>
     <file name="u365-17-r.png" crc="168798294" ref="contact"/>
