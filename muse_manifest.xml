@@ -1,19 +1,10 @@
-<manifest alg="2" build="10" opt="true" iceEnabled="false" exportTarget="other" resolutions="1x,2x" timestamp="1419366525364">
-  <folder name="images">
-    <file name="u365-17.png" crc="3853959478" ref="contact"/>
-    <file name="u365-17-r.png" crc="168798294" ref="contact"/>
-    <file name="u365-17-m.png" crc="4127934965" ref="contact"/>
-    <file name="u365-17-fs.png" crc="4089968500" ref="contact"/>
-    <file name="u365-17_2x.png" crc="14538781" ref="contact"/>
-    <file name="u365-17-r_2x.png" crc="21550299" ref="contact"/>
-    <file name="u365-17-m_2x.png" crc="471090644" ref="contact"/>
-    <file name="u365-17-fs_2x.png" crc="3935481381" ref="contact"/>
-  </folder>
+<manifest alg="2" build="10" opt="true" iceEnabled="false" exportTarget="other" resolutions="1x,2x" timestamp="1419378547988">
+  <folder name="images"/>
   <folder name="css">
-    <file name="site_global.css" crc="4157428007"/>
-    <file name="master_a-master.css" crc="245533837" ref="contact:release-date:pricing:how-does-it-work:index"/>
-    <file name="contact.css" crc="3938836525" ref="contact"/>
-    <file name="iefonts_contact.css" crc="231966418" ref="contact"/>
+    <file name="site_global.css" crc="253216953"/>
+    <file name="master_a-master.css" crc="364796123" ref="contact:release-date:pricing:how-does-it-work:index"/>
+    <file name="contact.css" crc="3964956904" ref="contact"/>
+    <file name="iefonts_contact.css" crc="145962311" ref="contact"/>
     <file name="release-date.css" crc="3977000304" ref="release-date"/>
     <file name="iefonts_release-date.css" crc="3912581195" ref="release-date"/>
     <file name="pricing.css" crc="3977000304" ref="pricing"/>
@@ -27,15 +18,10 @@
     <file name="jquery-1.8.3.min.js" crc="4164521501" ref="index:how-does-it-work:pricing:release-date:contact"/>
     <file name="museutils.js" crc="3777594392" ref="index:how-does-it-work:pricing:release-date:contact"/>
     <file name="jquery.watch.js" crc="4144919381" ref="index:how-does-it-work:pricing:release-date:contact"/>
-    <file name="webpro.js" crc="474087315" ref="contact"/>
-    <file name="form_check.php" crc="306825315" ref="contact"/>
-    <file name="form_throttle.php" crc="4293816517" ref="contact"/>
-    <file name="form_process.php" crc="109188895" ref="contact"/>
-    <file name="form-u349.php" crc="4142725215" ref="contact"/>
   </folder>
   <file name="index.html" crc="4049639704" mt="1418499697020" redirect="true"/>
   <file name="how-does-it-work.html" crc="4171324041" mt="1418499697022" redirect="true"/>
   <file name="pricing.html" crc="3775564214" mt="1418499697023" redirect="true"/>
   <file name="release-date.html" crc="320714026" mt="1418499697025" redirect="true"/>
-  <file name="contact.html" crc="3926021001" mt="1419366522762" redirect="true"/>
+  <file name="contact.html" crc="535493381" mt="1419378542781" redirect="true"/>
 </manifest>
