@@ -1,54 +1,71 @@
-#u272
-{
-	border-color: #000000;
-	background-color: #252525;
-}
-
-#u275-4
+#u79-4
 {
 	background-color: transparent;
+	line-height: 73px;
+	font-size: 61px;
 	color: #FFFFFF;
-	font-size: 75px;
-	line-height: 90px;
-	text-align: center;
-	font-family: josefin-sans, sans-serif;
-	font-weight: 100;
-	position: relative;
-}
-
-#u277-4
-{
-	background-color: transparent;
-	color: #FFFFFF;
-	font-size: 25px;
-	line-height: 30px;
 	text-align: center;
 	font-family: josefin-sans, sans-serif;
 	font-weight: 300;
 	position: relative;
 }
 
-#u87
+#u75
 {
 	border-color: #000000;
-	background-color: #35AAE7;
+	background-color: #FFFFFF;
 }
 
-#u272_align_to_page,#u87_align_to_page
+#buttonu81
 {
+	border-color: #787878;
+	background-color: #FFFFFF;
 	position: relative;
+}
+
+#buttonu81:hover
+{
+	background-color: #191919;
+}
+
+#buttonu81:active
+{
+	background-color: #000000;
+}
+
+#u86-4
+{
+	background-color: transparent;
+	line-height: 26px;
+	font-size: 22px;
+	text-align: center;
+	font-family: josefin-sans, sans-serif;
+	font-weight: 400;
+	position: relative;
+}
+
+#buttonu81:hover #u86-4 p
+{
+	color: #FFFFFF;
+	visibility: inherit;
+}
+
+#buttonu81:active #u86-4 p
+{
+	color: #FFFFFF;
+	visibility: inherit;
 }
 
 #buttonu90
 {
 	border-color: #787878;
-	background-color: transparent;
+	background-color: #FFFFFF;
 	position: relative;
 }
 
 #buttonu90:hover
 {
-	background-color: #252525;
+	background-color: #191919;
 }
 
 #buttonu90:active
@@ -59,17 +76,15 @@
 #u91-4
 {
 	background-color: transparent;
-	font-size: 21px;
-	color: #252525;
-	letter-spacing: 1px;
-	line-height: 25px;
+	line-height: 26px;
+	font-size: 22px;
 	text-align: center;
 	font-family: josefin-sans, sans-serif;
 	font-weight: 400;
 	position: relative;
 }
 
-#buttonu90:hover #u91-4 p
+#buttonu81.ButtonSelected #u86-4 p,#buttonu90:hover #u91-4 p
 {
 	color: #FFFFFF;
 	visibility: inherit;
@@ -81,200 +96,123 @@
 	visibility: inherit;
 }
 
-#buttonu156
+#buttonu95
 {
 	border-color: #787878;
-	background-color: transparent;
+	background-color: #FFFFFF;
 	position: relative;
 }
 
-#buttonu156:hover
+#buttonu95:hover
 {
-	background-color: #252525;
+	background-color: #191919;
 }
 
-#buttonu156:active
+#buttonu95:active
 {
 	background-color: #000000;
 }
 
-#u157-4
+#u96-4
 {
 	background-color: transparent;
-	font-size: 21px;
-	color: #252525;
-	letter-spacing: 1px;
-	line-height: 25px;
+	line-height: 26px;
+	font-size: 22px;
 	text-align: center;
 	font-family: josefin-sans, sans-serif;
 	font-weight: 400;
 	position: relative;
 }
 
-#buttonu156:hover #u157-4 p
+#buttonu90.ButtonSelected #u91-4 p,#buttonu95:hover #u96-4 p
 {
 	color: #FFFFFF;
 	visibility: inherit;
 }
 
-#buttonu156:active #u157-4 p
+#buttonu95:active #u96-4 p
 {
 	color: #FFFFFF;
 	visibility: inherit;
 }
 
-#buttonu154
+#buttonu97
 {
 	border-color: #787878;
-	background-color: transparent;
+	background-color: #FFFFFF;
 	position: relative;
 }
 
-#buttonu154:hover
+#buttonu97:hover
 {
-	border-style: none;
-	border-color: transparent;
-	background-color: #252525;
+	background-color: #191919;
 }
 
-#buttonu154:active
+#buttonu97:active
 {
-	border-style: none;
-	border-color: transparent;
 	background-color: #000000;
 }
 
-#buttonu154.ButtonSelected
+#buttonu81.ButtonSelected,#buttonu90.ButtonSelected,#buttonu95.ButtonSelected,#buttonu97.ButtonSelected
 {
-	border-color: #787878;
-	background-color: #7AC3E2;
+	background-color: #C84B4B;
 }
 
-#u155-4
+#u98-4
 {
 	background-color: transparent;
-	font-size: 21px;
-	color: #252525;
-	letter-spacing: 1px;
-	line-height: 25px;
+	line-height: 26px;
+	font-size: 22px;
 	text-align: center;
 	font-family: josefin-sans, sans-serif;
 	font-weight: 400;
 	position: relative;
 }
 
-#buttonu154:hover #u155-4 p
+#buttonu95.ButtonSelected #u96-4 p,#buttonu97:hover #u98-4 p
 {
 	color: #FFFFFF;
 	visibility: inherit;
 }
 
-#buttonu154:active #u155-4 p
+#buttonu97:active #u98-4 p
 {
 	color: #FFFFFF;
 	visibility: inherit;
 }
 
-#buttonu158
+#buttonu97.ButtonSelected #u98-4 p
 {
-	border-color: #787878;
-	background-color: transparent;
+	color: #FFFFFF;
+	visibility: inherit;
+}
+
+#u162,#u77
+{
+	border-color: #000000;
+	background-color: #191919;
+}
+
+#u162_align_to_page,#u75_align_to_page,#u77_align_to_page
+{
 	position: relative;
 }
 
-#buttonu158:hover
+#u171
 {
-	background-color: #252525;
+	border-color: #000000;
+	background-color: #191919;
+	position: fixed;
 }
 
-#buttonu158:active
-{
-	background-color: #000000;
-}
-
-#u159-4
+#u123-4
 {
 	background-color: transparent;
-	font-size: 21px;
-	color: #252525;
-	letter-spacing: 1px;
-	line-height: 25px;
-	text-align: center;
+	line-height: 24px;
+	font-size: 20px;
+	color: #FFFFFF;
 	font-family: josefin-sans, sans-serif;
-	font-weight: 400;
-	position: relative;
-}
-
-#buttonu158:hover #u159-4 p
-{
-	color: #FFFFFF;
-	visibility: inherit;
-}
-
-#buttonu158:active #u159-4 p
-{
-	color: #FFFFFF;
-	visibility: inherit;
-}
-
-#buttonu160
-{
-	border-color: #787878;
-	background-color: transparent;
-	position: relative;
-}
-
-#buttonu160:hover
-{
-	background-color: #252525;
-}
-
-#buttonu160:active
-{
-	background-color: #000000;
-}
-
-#buttonu90.ButtonSelected,#buttonu156.ButtonSelected,#buttonu158.ButtonSelected,#buttonu160.ButtonSelected
-{
-	background-color: #7AC3E2;
-}
-
-#u161-4
-{
-	background-color: transparent;
-	font-size: 21px;
-	color: #252525;
-	letter-spacing: 1px;
-	line-height: 25px;
-	text-align: center;
-	font-family: josefin-sans, sans-serif;
-	font-weight: 400;
-	position: relative;
-}
-
-#buttonu160:hover #u161-4 p
-{
-	color: #FFFFFF;
-	visibility: inherit;
-}
-
-#buttonu160:active #u161-4 p
-{
-	color: #FFFFFF;
-	visibility: inherit;
-}
-
-#buttonu90.ButtonSelected #u91-4 p,#buttonu156.ButtonSelected #u157-4 p,#buttonu154.ButtonSelected #u155-4 p,#buttonu158.ButtonSelected #u159-4 p,#buttonu160.ButtonSelected #u161-4 p
-{
-	color: #252525;
-	visibility: inherit;
-}
-
-#u282
-{
-	border-style: none;
-	border-color: transparent;
-	background-color: transparent;
+	font-weight: 300;
 	position: relative;
 }
 
