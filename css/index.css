@@ -1,0 +1,66 @@
+.version.index /* version checker */
+{
+	color: #0000FB;
+	background-color: #95BB6D;
+}
+
+.html
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	width: 458px;
+	min-height: 412px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: transparent;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 26px 299px 62px 263px;
+}
+
+#u75-4
+{
+	z-index: 2;
+	display: block;
+	vertical-align: top;
+	margin-left: 37px;
+	position: relative;
+}
+
+#u77
+{
+	z-index: 6;
+	width: 334px;
+	background-color: transparent;
+	margin-left: 80px;
+	margin-top: 79px;
+	position: relative;
+}
+
+#u83-4
+{
+	z-index: 8;
+	display: block;
+	vertical-align: top;
+	margin-top: 79px;
+	position: relative;
+}
+
+body
+{
+	position: relative;
+	min-width: 1020px;
+	padding-top: 36px;
+	padding-bottom: 36px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+
